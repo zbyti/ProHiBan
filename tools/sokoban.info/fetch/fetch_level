@@ -1,0 +1,38 @@
+#!/bin/php
+<?php
+
+$options = getopt("s:l:");
+
+if (empty($options['s'])) {
+  exit("-s parameter empty\n");
+} else {
+  $sN = $options['s'];
+}
+
+if (empty($options['l'])) {
+  $lN = 1;
+} else {
+  $lN  = $options['l'];
+}
+
+$output = exec('google-chrome --headless --disable-gpu --dump-dom view-source:https://sokoban.info/?' . $sN . '_' . $lN);
+
+$pieces = explode('var Board', $output);
+
+$tmp = explode(';', $pieces[2])[0];
+$tmp = explode('=', $tmp);
+$BoardXMax = intval($tmp[1]);
+
+$tmp = explode(';', $pieces[3])[0];
+$tmp = explode('=', $tmp);
+$BoardYMax = intval($tmp[1]);
+
+$tmp = explode(';', $pieces[1])[0];
+$tmp = explode('=', $tmp);
+$tmp = explode('"', $tmp[1]);
+$Board = $tmp[1];
+
+echo $BoardXMax, PHP_EOL;
+echo $BoardYMax, PHP_EOL;
+echo $Board, PHP_EOL;
+

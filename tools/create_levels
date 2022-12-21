@@ -1,0 +1,27 @@
+#!/bin/bash
+./compressor.php -n abed -l 79 -h 82
+./compressor.php -n aruba -l 35 -h 44
+./compressor.php -n atlas -l 45
+./compressor.php -n boxxle -l 2 -h 3
+./compressor.php -n cosmac1 -l 46 -h 50
+./compressor.php -n cosmac2 -l 51 -h 55
+./compressor.php -n cosmos -l 4 -h 7
+./compressor.php -n duthen -l 83 -h 84
+./compressor.php -n dzekic -l 89 -h 92
+./compressor.php -n garcia -l 31 -h 34
+./compressor.php -n grigr -l 65 -h 70
+./compressor.php -n haywood -l 87 -h 88
+./compressor.php -n holland -l 8 -h 14
+./compressor.php -n marques -l 71 -h 78
+./compressor.php -n micro -l 25 -h 28
+./compressor.php -n reinke1 -l 94 -h 100
+./compressor.php -n reinke2 -l 101 -h 105
+./compressor.php -n sasq -l 15 -h 24
+./compressor.php -n serena1 -l 56 -h 59
+./compressor.php -n serena2 -l 60 -h 64
+./compressor.php -n sharpen -l 92
+./compressor.php -n various1 -l 106 -h 111
+./compressor.php -n various2 -l 112 -h 122
+./compressor.php -n various3 -l 123 -h 132
+
+mv /dev/shm/*.apl ../lvs

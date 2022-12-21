@@ -1,0 +1,2 @@
+DL_LOADING rcasm 'asm/dl_loading.asm'
+DL_MAIN    rcasm 'asm/dl_main.asm'

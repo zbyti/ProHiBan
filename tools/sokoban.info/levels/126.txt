@@ -1,0 +1,183 @@
+19
+11
+xxxx#####xxxxxxxxxx!xxxx#   #xxxxxxxxxx!xxxx#   #xxxxxxxxxx!xx###   ##xxxxxxxxx!xx#      #xxxxxxxxx!### # ## #xxx######!#   # ## #####    #!# $  $           .#!#####$### #@##  ..#!xxxx#     #########!xxxx#######xxxxxxxx!
+19
+11
+xxxx#####xxxxxxxxxx!xxxx#   #xxxxxxxxxx!xxxx#   #xxxxxxxxxx!xx### $ ##xxxxxxxxx!xx#   $  #xxxxxxxxx!### # ## #xxx######!#   # ## #####   .#!# $  $          ..#!#####$### #@##  ..#!xxxx#     #########!xxxx#######xxxxxxxx!
+17
+10
+xxxxxxxx########x!xxxxxxxx#     @#x!xxxxxxxx# $#  ##x!xxxxxxxx#     #xx!xxxxxxxx##  $ #xx!#########   # ###!#.     ##   $   #!##.             #!#.     ##########!########xxxxxxxxx!
+17
+10
+xxxxxxxx########x!xxxxxxxx#     @#x!xxxxxxxx# $#  ##x!xxxxxxxx#     #xx!xxxxxxxx##  $ #xx!#########   # ###!#..    ## $$$   #!##.             #!#..    ##########!########xxxxxxxxx!
+17
+10
+xxxxxxxx########x!xxxxxxxx#     @#x!xxxxxxxx#  #$ ##x!xxxxxxxx#   $ #xx!xxxxxxxx##  $ #xx!#########   # ###!#..    ##   $   #!##.         $   #!#..    ##########!########xxxxxxxxx!
+17
+10
+xxxxxxxx########x!xxxxxxxx#     @#x!xxxxxxxx# $#$ ##x!xxxxxxxx#   $ #xx!xxxxxxxx##  $ #xx!#########   # ###!#...   ## $ $   #!##..      $ $   #!#...   ##########!########xxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#      #!############      #!#    #            #!#    #   $$#   ...#!#       $$ #   ...#!#    # $$  ########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#      #!############      #!#    #  $ $       #!#    # $$  #   ...#!#       $ $#   ...#!#    #     ########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#      #!############      #!#    #            #!#    #$    #     .#!#          #     .#!#    #$    ########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#    ..#!############    ..#!#    #          ..#!#    # $$$$#    ..#!#  $$      #    ..#!#    # $$$$########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#      #!############     .#!#    #          ..#!# $$$#     #    ..#!#  $       #    ..#!# $$$#     ########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+19
+10
+xxxxxxxxxxx########!xxxxxxxxxxx#      #!############     .#!#    #   $       .#!#    #  $  #     .#!#      $   #     .#!#    #$    ########!#    #     #xxxxxxx!##@#########xxxxxxx!x###xxxxxxxxxxxxxxx!
+16
+16
+xx####xxxxxxxxxx!xx#  ###########!xx#            #!xx#  #   #     #!xx#       #    #!###  # #  #### #!#@#$      ##   #!#  $$  # #   # #!#   $  $ $     #!#####  #########!xx#      #xxxxxx!xx#      #xxxxxx!xx#      #xxxxxx!xx#      #xxxxxx!xx#......#xxxxxx!xx########xxxxxx!
+16
+16
+xx####xxxxxxxxxx!xx#  ###########!xx#        $ $ #!xx#  #   #  $  #!xx#       #    #!###  # #  #### #!#@#       ##   #!#      # #   # #!#              #!#####  #########!xx#      #xxxxxx!xx#      #xxxxxx!xx#      #xxxxxx!xx#      #xxxxxx!xx#   ...#xxxxxx!xx########xxxxxx!
+17
+14
+xxxxxxxxxx#######!xxxxxxxxxx#     #!xxxxxx#####     #!xxxxxx#         #!xxxxxx#  ##    .#!xxxxxx## ##    .#!xxxxx### ########!xxxxx#     ##xxxx!x#####      #####!##   #$    $#   #!#@              #!######      #####!xxxxx#      #xxxx!xxxxx########xxxx!
+17
+14
+xxxxxxxxxx#######!xxxxxxxxxx#     #!xxxxxx#####     #!xxxxxx#        .#!xxxxxx#  ##  ...#!xxxxxx## ##  ...#!xxxxx### ########!xxxxx# $$$ ##xxxx!x#####  $   #####!##   #  $   #   #!#@ $          $ #!######      #####!xxxxx#      #xxxx!xxxxx########xxxx!
+19
+16
+x###xx#############!##@####       #   #!# $               #!#  $  #       #   #!# $   #       #   #!###   #       #   #!#     #       #   #!#    ###### ###   #!## #  #       #   #!#  ## #       ##  #!#  .# #         # #!# ..# #         # #!##### #       # # #!xxxx# ######### # #!xxxx#           # #!xxxx###############!
+19
+16
+x###xx#############!##@####       #   #!# $$              #!#  $$$#       #   #!# $   #       #   #!###   #      .#   #!#     #      .#   #!#    ###### ###   #!## #  #       #   #!#  ## #       ##  #!# ..# #         # #!# ..# #         # #!##### #       # # #!xxxx# ######### # #!xxxx#           # #!xxxx###############!
+19
+15
+xxxxxxxxxx####xxxxx!xxxxx####x#  #xxxxx!xxx### @###  #xxxxx!xx##         #xxxxx!x##    $ ## ##xxxxx!x#  # ##     #xxxxx!x# #   $  # ###xxxx!x# $   #  #   #####!####    #     #   #!#### ##           #!#     ###  ########!#     #x####xxxxxxx!#     #xxxxxxxxxxxx!#  ...#xxxxxxxxxxxx!#######xxxxxxxxxxxx!
+19
+15
+xxxxxxxxxx####xxxxx!xxxxx####x#  #xxxxx!xxx### @###$ #xxxxx!xx##         #xxxxx!x##      ## ##xxxxx!x#  # ##     #xxxxx!x# #      # ###xxxx!x# $   #  #   #####!####    #     #   #!#### ##           #!#     ###  ########!#     #x####xxxxxxx!#     #xxxxxxxxxxxx!#   ..#xxxxxxxxxxxx!#######xxxxxxxxxxxx!
+19
+15
+xxxxxxxxxx####xxxxx!xxxxx####x#  #xxxxx!xxx### @###$ #xxxxx!xx##         #xxxxx!x##      ## ##xxxxx!x#  # ##$    #xxxxx!x# #    $ # ###xxxx!x# $   #  #   #####!####    #     #   #!#### ##           #!#     ###  ########!#     #x####xxxxxxx!#     #xxxxxxxxxxxx!# ....#xxxxxxxxxxxx!#######xxxxxxxxxxxx!
+19
+15
+xxxxxxxxxx####xxxxx!xxxxx####x#  #xxxxx!xxx### @###  #xxxxx!xx##         #xxxxx!x##  $   ## ##xxxxx!x#  #$##     #xxxxx!x# #      # ###xxxx!x#   $ #  #   #####!#### $  #     #   #!#### ##           #!#     ###  ########!#     #x####xxxxxxx!#     #xxxxxxxxxxxx!# ....#xxxxxxxxxxxx!#######xxxxxxxxxxxx!
+19
+15
+xxxxxxxxxx####xxxxx!xxxxx####x#  #xxxxx!xxx### @###  #xxxxx!xx##         #xxxxx!x##      ## ##xxxxx!x#  # ##     #xxxxx!x# #      # ###xxxx!x# $   #  #   #####!####    #     #   #!#### ## $         #!#     ###  ########!#     #x####xxxxxxx!#     #xxxxxxxxxxxx!#   ..#xxxxxxxxxxxx!#######xxxxxxxxxxxx!
+17
+13
+################x!#              #x!# # ######     #x!# # @$ $ $ $#  #x!# #         ## ##!# #       ###   #!# #        ##   #!# ###      ##   #!#     # ## ## ..#!#####   ## ## ..#!xxxx#####     ###!xxxxxxxx#     #xx!xxxxxxxx#######xx!
+17
+13
+################x!#              #x!# # ######     #x!# #    $    #  #x!# #   $@$   ## ##!# #    $  ###   #!# #        ##   #!# ###      ##   #!#     # ## ## ..#!#####   ## ## ..#!xxxx#####     ###!xxxxxxxx#     #xx!xxxxxxxx#######xx!
+17
+13
+################x!#              #x!# # ######  $  #x!# #    $ $  #  #x!# #         ## ##!# #       ###   #!# #        ##   #!# ###      ##   #!#     # ## ##  .#!#####@  ## ## ..#!xxxx#####     ###!xxxxxxxx#     #xx!xxxxxxxx#######xx!
+18
+16
+xxxxxxx#######xxxx!x#######     #xxxx!x#     # $@$ #xxxx!x#   #   #########!x# ###      ##   #!x#   #..    ## # #!x# ###..       $ #!##   #### ### #$##!#  #    #     # #x!#         #  ## #x!#       ###   # #x!#####         # #x!xxxx### ###   # #x!xxxxxx#     #   #x!xxxxxx########  #x!xxxxxxxxxxxxx####x!
+18
+16
+xxxxxxx#######xxxx!x#######     #xxxx!x#     # $@$ #xxxx!x#   #.  #########!x# ###..    ##   #!x#   #..    ## # #!x# ###..       $ #!##   #### ### #$##!#  #    #     # #x!#  $      #$ ## #x!#       ###   # #x!#####      $  # #x!xxxx### ###   # #x!xxxxxx#     #   #x!xxxxxx########  #x!xxxxxxxxxxxxx####x!
+18
+16
+xxxxxxx#######xxxx!x#######     #xxxx!x#     # $@$ #xxxx!x#   #   #########!x# ###..    ##   #!x#   #..    ## # #!x# ###..         #!##   #### ### #$##!#  #    #  $  # #x!#         #  ## #x!#       ###$  # #x!#####     $   # #x!xxxx### ###   # #x!xxxxxx#     #   #x!xxxxxx########  #x!xxxxxxxxxxxxx####x!
+18
+16
+xxxxxxx#######xxxx!x#######     #xxxx!x#     # $@$ #xxxx!x#   #   #########!x# ###..   .##   #!x#   #..    ## # #!x# ###..         #!##   #### ### # ##!#  #$   #     # #x!#  $ $$$  #  ## #x!#       ###   # #x!#####         # #x!xxxx### ###   # #x!xxxxxx#     #   #x!xxxxxx########  #x!xxxxxxxxxxxxx####x!
+15
+12
+x#######xxxxxxx!x#  #  #####xxx!##  #  #   ###x!#   #  #    .#x!#   #$$    ..#x!#   #  #   ..#x!#   # $########!##            #!##  #     #   #!x######  ##$$@#!xxxxxx#      ##!xxxxxx########x!
+15
+12
+x#######xxxxxxx!x#  #  #####xxx!##  #  # ..###x!#   #  #   ..#x!#   #$$    ..#x!#   #  #   ..#x!#   # $########!##        $   #!##  #  $$ #   #!x######  ##$$@#!xxxxxx#      ##!xxxxxx########x!
+19
+13
+x#################x!x#      #    #   ##!##.      $## # #  #!#..    #     #    #!#..    #  #  # #  #!######### $  $    #!xx#     #$##  ## ##!x##        # $    #!x#  ## ### #  ##  #!x#                #!x#       ##  ######!x#######  @ ##xxxxx!xxxxxxx######xxxxxx!
+19
+13
+x#################x!x#..    #    #   ##!##..      ## # #$ #!#...   #     #    #!#...   #  #  # #  #!#########         #!xx#     #$##  ## ##!x##   $    #      #!x#  ## ### #  ##$ #!x# $ $$        $  #!x# $    $##  ######!x#######  @ ##xxxxx!xxxxxxx######xxxxxx!
+17
+15
+xxxxxxxxx#####xxx!xxxxx#####   #xxx!xxxx##       ####!#####    $   ##.#!#        $  ##..#!#  ###### ###...#!## #  #    #    #!#     #    #    #!#@ #  ## ####   #!####        ##  #!xxx##  $$       #!xxxx# $$    #   #!xxxx#        ####!xxxx######   #xxx!xxxxxxxxx#####xxx!
+17
+15
+xxxxxxxxx#####xxx!xxxxx#####   #xxx!xxxx##       ####!#####    $   ##.#!#        $  ##..#!#  ###### ###...#!## #  #    #....#!# $   #    #    #!#@ #$ ## ####   #!####        ##  #!xxx##  $        #!xxxx# $$  $ #   #!xxxx#   $ $  ####!xxxx######   #xxx!xxxxxxxxx#####xxx!
+19
+14
+xxxxxxx###########x!xxxxxxx#   #     #x!#####xx#         #x!#   #####  ## # ##x!#   ##   # ## $  #x!#        # ##$$$ #x!## ###   # ##    #x!## #   ### ##### #x!## #        #    #x!#  ### ##   #    ##!#       #   #     #!# @##   #  ##.    #!#####   ######...##!xxxx#####xxxx#####x!
+18
+16
+xx####xxxxxxxxxxxx!xx#  #########xxxx!x##  ##  #   #xxxx!x#   #  @    ####x!x#      #    #  ##!##   ## #        #!#  #  # #   $$$  #!#          ## ####!#     # #  #  #xxx!##  ###  ###  #xxx!x#  #         #xxx!x####      ####xxx!xxx#    ####xxxxxx!xxx#...##xxxxxxxxx!xxx#   #xxxxxxxxxx!xxx#####xxxxxxxxxx!
+18
+16
+xx####xxxxxxxxxxxx!xx#  #########xxxx!x##  ##  #   #xxxx!x#   #  @    ####x!x#      #    #  ##!##   ## #        #!#  #  # #   $$$  #!#      $   ## ####!#     #$#  #  #xxx!##  ###  ###$ #xxx!x#  #         #xxx!x####      ####xxx!xxx#... ####xxxxxx!xxx#...##xxxxxxxxx!xxx#   #xxxxxxxxxx!xxx#####xxxxxxxxxx!
+13
+15
+xxxxxx####xxx!xx#####  #xxx!x##     $#xxx!## $  ## ###x!#@$   # $  #x!#### ##   $#x!x#.   #$ $ #x!x#.   #   $#x!x#..       ##!x#....#     #!x######     #!xxxxxx#   ###!xxxxxx#  ###x!xxxxxx#  #xxx!xxxxxx####xxx!
+14
+15
+x#########xxxx!x#....   ##xxx!x#.# #  $ ##xx!##    # # @##x!#     #  #  ##!#     #$ ##$ #!## ###  $    #!x#        #  #!x# #      ## #!x#  ###  ##  #!x#    ## ## ##!x#    #  $  #x!x###      ###x!xxx#  #####xxx!xxx####xxxxxxx!
+19
+16
+############x######!#   #    # ### ...#!#   $$#   @    ...#!#   # ###   #     #!## ## ###  #      #!x# $ $     # # ####!x#  $ $##  #      #!#### #  #### # ## #!#  # #    ## #    #!#       # ## #   ##!# #        # #   #x!#    ## ## # #####x!#            #xxxxx!## ## ###    #xxxxx!x#    #x#    #xxxxx!x######x######xxxxx!
+19
+16
+xxxxxxxxxxxx#####xx!#####xx######   #xx!#   ####        #xx!#     ## ## ##  ##x!#                #x!###    ## ##     ##!xx# ##### #####   #!x##$##### @##     #!x# $  ###$### $  ##!x# $  #   ###  ###x!x# $  $ #   $$ #xxx!x#     #   ##  #xxx!x#######    ####xxx!xxxx#         #xxxx!xxxx#.........#xxxx!xxxx###########xxxx!
+19
+15
+###########xxxxxxxx!#....     #########!#....     #  ##   #!#  ### $    $     #!#      $ #   ##   #!#   #$#####    #  #!###    #   #   #  #!xx#  $    $   ##  #!xx#  $   #$#  ##  #!xx### ## #    ##  #!xxx#      #  ######!xxx#          #xxxx!xxx##   # #   #xxxx!xxxx#####@#####xxxx!xxxxxxxx###xxxxxxxx!
+11
+11
+xxxxxx####x!####### @#x!#        #x!#   $##  #x!## # ..# #x!x# $ ..  #x!x# #   # ##!x#   # #$ #!x#   $    #!x#  #######!x####xxxxxx!
+19
+16
+xxxxxxxxxxxxx######!x#############....#!##   ##     ##....#!#    ##    @## ...#!#          #      #!#    ##    # #    #!#    ##    #      #!## ##### ### ## ###!##        ##      #!#  ###  # ##### ###!#   $   #       #xx!#  $ #$ $ $###  #xx!# $$$# $   #x####xx!#    #  $$ #xxxxxxx!######   ###xxxxxxx!xxxxx#####xxxxxxxxx!
+17
+16
+xxxx############x!xxxx#          ##!xxxx#  # #   $  #!xxxx#  # #  ## @#!xxx## ## # $ # ##!xxx#     #$  # #x!xxx#   # $   # #x!xxx##   $   ## #x!xxx#  #  ##    #x!xxx#    ##   # #x!######     #   #x!#..  #  ########x!#.     ##xxxxxxxx!#.      #xxxxxxxx!#.      #xxxxxxxx!#########xxxxxxxx!
+19
+15
+xxxxxxxxxxx#####xxx!xxxxxxxxxx##   ##xx!xxxxxxxxx##     #xx!xxxxxxxx##      #xx!xxxxxxx##       #xx!xxxxxxx#        #xx!####xxx#      #####!#  ######## ##    #!#             $$$@#!#.. ####### ##   ##!#.. #######  #$ $##!#..          #    #!##############  $ #!xxxxxxxxxxxxx##  ##!xxxxxxxxxxxxxx####x!
+18
+13
+xxxxx########xxxxx!xx####      ######!xx#    ## $ $   @#!xx# ## ##$#$ $ $##!###    ...#  $$ ##!#       ..#  #   #!# #     ..#   $  #!# #     ..   #   #!#   ### ###     ##!###             #x!xx#             #x!xx######   ######x!xxxxxxx#####xxxxxx!
+19
+11
+xxxxxxxx#######xxxx!xxxx#####  #  ####x!xxxx#   #        #x!x#### #   ## ##  #x!##      # #  ## ###!#  ### $#   $   $ #!#.      # ##  #   #!#.  #    @ # ### ##!#.  #  ###        #!########x##   #   #!xxxxxxxxxx#########!
+19
+11
+xxxxxxxx#######xxxx!xxxx#####  #  ####x!xxxx#   #   $    #x!x#### #   ## ##  #x!##      # #  ## ###!#  ### $#$  $     #!#.      # ##  #   #!#.. #    @ # ### ##!#.. #  ###  $     #!########x##   #   #!xxxxxxxxxx#########!
+19
+15
+x#####xxxxxxxxxxxxx!x#   #xxxxxxxxxxxxx!x# # #######xxxxxxx!x#       @######xxx!x#   ##$ ###   #xxx!x# #### $      #xxx!x# ##### #  #  ####!##  #### ##       #!#   #     # ## ## #!#         # #   # #!######  ###       #!xxxxx####x# # ..# #!xxxxxxxxxx# ### # #!xxxxxxxxxx#       #!xxxxxxxxxx#########!
+19
+15
+x#####xxxxxxxxxxxxx!x#   #xxxxxxxxxxxxx!x# # #######xxxxxxx!x#      $@######xxx!x#   ##$ ###   #xxx!x# #### $      #xxx!x# ##### #  #  ####!##  #### ##       #!#   #     # ## ## #!#         # #   # #!######  ###       #!xxxxx####x# #...# #!xxxxxxxxxx# ### # #!xxxxxxxxxx#       #!xxxxxxxxxx#########!
+16
+14
+#####x####xxxxxx!#.  #x#  ####xxx!#.  ###  $  #xxx!#    ## $   ###x!##    ##      #x!###    ##     #x!# ##    #     #x!#  ## # ### ####!#   # #        #!#    @         #!#   #        ###!#  ######  ###xx!# ##xxxx####xxxx!###xxxxxxxxxxxxx!
+16
+14
+#####x####xxxxxx!#...#x#  ####xxx!#...###  $  #xxx!#.   ## $  $###x!##    ##   $  #x!###    ## $ $ #x!# ##    #  $  #x!#  ## # ### ####!#   # #        #!#    @         #!#   #        ###!#  ######  ###xx!# ##xxxx####xxxx!###xxxxxxxxxxxxx!
+14
+16
+##########xxxx!#        ####x!# ###### #  ##!# # $ $      #!#       #    #!###   $$#  ###!xx#  ## #  ##x!xx##$#     @#x!xxx#      ###x!xxx# #   $  #x!xxx# ##   # #x!xx##  ##### #x!xx#         #x!xx#    ...###x!xx#    ...#xxx!xx#########xxx!
+14
+16
+##########xxxx!#        ####x!# ###### #  ##!# # $ $    $ #!#       #$   #!###$  $$#  ###!xx#  ## #  ##x!xx##$#   $ @#x!xxx#      ###x!xxx# #   $  #x!xxx# ##   # #x!xx##  ##### #x!xx#         #x!xx#  .....###x!xx#  .....#xxx!xx#########xxx!
+18
+11
+xxxxxxxxx####xxxxx!x#########  ##xxxx!##           #####!#   ## ##   ## ..#!# #$$ $ $$#$## ..#!# #   @   #    ..#!#  $# ###$$    ..#!#        $ ##  ..#!###        #######!xx#  #######xxxxxx!xx####xxxxxxxxxxxx!
+13
+16
+xx#########xx!xx#...#...#xx!xx#..###..#xx!xx#..###..#xx!xx#       #xx!xx#       #xx!xx###   ###xx!xxxx#   #xxxx!###### ######!#           #!#   $ $ $   #!## $ $ $ $ ##!x#$ $ $ $ $#x!x#   $@$   #x!x#  #####  #x!x####xxx####x!
+16
+15
+xxxxxxx####xxxxx!xxxxxxx#  ##xxxx!xxxxxxx#   ##xxx!xxxxxxx#    ##xx!xxxxx###     ##x!xx####        #x!###  # #####  #x!#    # #.  .  #x!# #$        # #x!#  $ # #.  .# #x!###  #### ### #x!xx#### @$  #####!xxxxx### $     #!xxxxxxx#  ##   #!xxxxxxx#########!
+19
+16
+xxxxxx############x!xxxxx##..    #   #x!xxxx##..         #x!xxx##..  # # #  ##x!xxx#.   # # #    #x!####   #  #    # #x!#  ## #          #x!# @$ $ ###  #   ##x!# $   $   # #   #xx!###$$   # # # # #xx!xx#   $   # # #####!xx#  # #####      #!xx#    #xxx#    # #!xx#  ###xxx##     #!xx#  #xxxxxx#    ##!xx####xxxxxx######x!

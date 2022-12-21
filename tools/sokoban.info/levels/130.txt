@@ -1,0 +1,9 @@
+11
+11
+xxx####xxxx!xxx#  #xxxx!xx##  ####x!###.$.$. #x!#  $.$.$ ##!#  .$@$.  #!## $.$.$  #!x# .$.$.###!x####  ##xx!xxxx#  #xxx!xxxx####xxx!
+13
+11
+xxxx####xxxxx!xxxx#  #xxxxx!xx###  ####xx!### .$.$. #xx!#   $.$.$ ###!#   .$#$.   #!### $.$.$   #!xx# .$.$. ###!xx####  ###xx!xxxxx# @#xxxx!xxxxx####xxxx!
+15
+11
+xxxxx####xxxxxx!xxxx##  ##xxxxx!xxxx#    ###xxx!#####$.$.$ ###x!#   $.#.#.$  ##!#    $.@.$    #!##  $.#.#.$   #!x### $.$.$#####!xxx###    #xxxx!xxxxx##  ##xxxx!xxxxxx####xxxxx!

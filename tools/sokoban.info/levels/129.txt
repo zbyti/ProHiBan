@@ -1,0 +1,21 @@
+19
+10
+xxxxxx#######xxxxxx!xx#####  ...#xxxxxx!xx#   #  # ##xxxxxx!x##$ $#@$# ########!## $  #$ $   $ $  #!#  $    $  $      #!#     #    #  #####!# $  $###### .....#!####  #xxxx# .....#!xxx####xxxx########!
+19
+13
+######xxxxxxxxxxxxx!#   @#xxxxxx######x!# $$$#xxxxxx#    #x!#  $ ########$   #x!##$  #       $   #x!x#   #  ##### ####x!x#     $##### #xxxx!x#####$ $     #xxxx!xxxxx#     $  #xxxx!xx#### ###### #####!xx#..... . .      #!xx#.... ##        #!xx#################!
+8
+18
+xx####xx!xx# @#xx!xx#$ #xx!xx#  #xx!xx#$ #xx!x##  ##x!##  $ ##!## $. ##!#  ##  #!#  .. ##!# $##  #!## ..$ #!#  ##$ #!#  .. ##!# $##  #!# $.*  #!#  #.  #!########!
+20
+10
+xxxxxx#########xxxxx!xxxx###...$.. ##xxxx!xxx##....*.*...##xxx!######  ## # #####xx!#       #     $  ###!# $ $   $   $ $   @#!####$ $ $ $ $ #$ ###!xx##  #########  ##x!xxx####xxxxxxx####xx!xxxx##xxxxxxxxx##xxx!
+20
+11
+xxxxx########xxxxxxx!xxxx#. . .   #xxxxx#!xxx# ######$ ##xxx##!xx# .$    $ ##@###.#!x# $ $$    $   #  .#!#  $$ ##### $$$ ...#!x#      $  $  #$...#!xx#  $  $ $  ##.##.#!xxx# #######  ##xx##!xxxx#. . . .  #xxxx#!xxxxx#########xxxxxx!
+21
+19
+xxxxxxxxxx#xxxxxxxxxx!xxxxxxxxxx#xxxxxxxxxx!xxxxxxxxxx#xxxxxxxxxx!xxxxxxxxx###xxxxxxxxx!xxxxxxxx##.##xxxxxxxx!xxxxxxx#@#.# #xxxxxxx!xxxxxx#  #.#  #xxxxxx!xx#xx# $ #.# $ #xx#xx!xx#x# $ $ .#  $ #x#xx!xx## $  $ . $  $ ##xx!xx# $  $$#.#$$  $ #xx!x#.      #.#      .#x!##########.##########!xx#xxxxxx#.#xxxxxx#xx!xxxxxxxxx#.#xxxxxxxxx!xxxxxxx###.###xxxxxxx!xxxxx#####.#####xxxxx!xxxxxxxxx###xxxxxxxxx!xxxxxxxxxx#xxxxxxxxxx!
+19
+16
+xxxxxxxxx#xxxxxxxxx!xxxxxxxx###xxxxxxxx!xxxxxxx## ##xxxxxxx!xxxxx### @ ###xxxxx!xxxxx#  $ $  #xxxxx!xxxx## $ $ $ ##xxxx!xxx## $ $ $ $ ##xxx!xx##   $ $ $   ##xx!x##  #  # #  #  ##x!x#       $       #x!######### #########!xxxxxxx# ..#xxxxxxx!xxxxxxx# ..#xxxxxxx!xxxxx### ..###xxxxx!xxxxx#.......#xxxxx!xxxxx#########xxxxx!

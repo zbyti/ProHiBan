@@ -1,0 +1,15 @@
+25
+27
+xxxxxxxxxxx###xxxxxxxxxxx!xxxxxxxxxx##@##xxxxxxxxxx!xxxxxxxxx##   ##xxxxxxxxx!xxxxxxxx##  *  ##xxxxxxxx!xxxxxxx##  ***  ##xxxxxxx!xxxxxx##  * * *  ##xxxxxx!xxxxx##  * * * *  ##xxxxx!xxxx##  * * * * *  ##xxxx!xxx##  * * *** * *  ##xxx!xx##  * * * * * * *  ##xx!x##  * * * * * * * *  ##x!##  * * * * * * * * *  ##!#  * * * * *** * * * *  #!# * *** *** $ *** *** * #!#  * * * * *** * * * *  #!##  * * * * * * * * *  ##!x##  * * * * * * * *  ##x!xx##  * * * * * * *  ##xx!xxx##  * * *** * *  ##xxx!xxxx##  * * * * *  ##xxxx!xxxxx##  * * * *  ##xxxxx!xxxxxx##  * * *  ##xxxxxx!xxxxxxx##  ***  ##xxxxxxx!xxxxxxxx##  *  ##xxxxxxxx!xxxxxxxxx##   ##xxxxxxxxx!xxxxxxxxxx##.##xxxxxxxxxx!xxxxxxxxxxx###xxxxxxxxxxx!
+24
+23
+xxxxxxxxxx#####xxxxxxxxx!xxxxxxxxx##   ##xxxxxxxx!xxxxxxxx##  *  ##xxxxxxx!xxxxxxx##  * *  ##xxxxxx!xxxxxx##  * * *  ##xxxxx!xxxxx##  * *** *  ##xxxx!xxxx##  * * * * *  ##xxx!xxx##  * * * * * *  ##xx!xx##  * * * * * * *  ##x!x##  * * * *** * * *  ##!##  * * * * * * * * *  #!#. *** *** *$* *** ***@#!##  * * * * * * * * *  #!x##  * * * *** * * *  ##!xx##  * * * * * * *  ##x!xxx##  * * * * * *  ##xx!xxxx##  * * * * *  ##xxx!xxxxx##  * *** *  ##xxxx!xxxxxx##  * * *  ##xxxxx!xxxxxxx##  * *  ##xxxxxx!xxxxxxxx##  *  ##xxxxxxx!xxxxxxxxx##   ##xxxxxxxx!xxxxxxxxxx#####xxxxxxxxx!
+28
+19
+xxxxxxxx#############xxxxxxx!xxxxxxx##           ##xxxxxx!xxxxxx##  * * * * *  ##xxxxx!xxxxx##  * * * * * *  ##xxxx!xxxx##  * * * * * * *  ##xxx!xxx##  * * * * * * * *  ##xx!xx##  * * * * * * * * *  ##x!x##  * * * * *** * * * *  ##!##  * * * * * * * * * * *  #!#. *** *** * *$* * *** ***@#!##  * * * * * * * * * * *  #!x##  * * * * *** * * * *  ##!xx##  * * * * * * * * *  ##x!xxx##  * * * * * * * *  ##xx!xxxx##  * * * * * * *  ##xxx!xxxxx##  * * * * * *  ##xxxx!xxxxxx##  * * * * *  ##xxxxx!xxxxxxx##           ##xxxxxx!xxxxxxxx#############xxxxxxx!
+19
+11
+xxxx###########xxxx!xxx##         ##xxx!xx##  * * * *  ##xx!x##  * * * * *  ##x!##  * * * * * *  ##!#  ******$******@.#!##  * * * * * *  ##!x##  * * * * *  ##x!xx##  * * * *  ##xx!xxx##         ##xxx!xxxx###########xxxx!
+25
+21
+xxxxxxxxxx#####xxxxxxxxxx!xxxxxxxxx##   ##xxxxxxxxx!xxxxxxxx##  *  ##xxxxxxxx!xxxxx####  *$*  ####xxxxx!xxxx##    * * *    ##xxxx!xxx##  * * * * * *  ##xxx!xx##  *** * * * ***  ##xx!x##  * * * * * * * *  ##x!##  * * * * * * * * *  ##!#  * * * * * * * * * *  #!# * * *** *.*.* *** * * #!#  * * * * * * * * * *  #!##  * * * * * * * * *  ##!x##  * * * * * * * *  ##x!xx##  *** * * * ***  ##xx!xxx##  * * * * * *  ##xxx!xxxx##    * * *    ##xxxx!xxxxx####  *$*  ####xxxxx!xxxxxxxx##  *  ##xxxxxxxx!xxxxxxxxx## @ ##xxxxxxxxx!xxxxxxxxxx#####xxxxxxxxxx!

@@ -1,0 +1,32 @@
+#!/bin/bash
+
+#Fetch one Sokoban set with levels from: https://sokoban.info/
+
+if [ -z "$1" ] || [ -z "$2" ]; then
+  echo -e "\nGive me SET and LEVEL\n"
+  exit 1
+fi
+
+sN=$1
+lN=$2
+
+maxLv=0
+strarr=()
+
+selected=`google-chrome --headless --disable-gpu --disable-cache --no-sandbox --dump-dom https://sokoban.info/?$sN | grep "selected="`
+
+readarray -d '(' -t strarr <<< "$selected"
+readarray -d ')' -t strarr <<< ${strarr[1]}
+
+maxLv=${strarr[0]}
+echo -e "\nSET: $sN LEVELS: $maxLv\n"
+
+while [ $lN -le $maxLv ]
+do
+  echo "LEVEL: $sN $lN"
+  ./fetch_level -s $sN -l $lN >> $sN.txt
+  ((lN++))
+done
+
+echo -e "\nSET: $sN is done\n"
+

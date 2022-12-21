@@ -1,0 +1,9 @@
+#!/bin/bash
+#Fetch all Sokoban sets of levels from: https://sokoban.info/
+
+for sN in {1..132}
+do
+  ./fetch_set $sN 1 
+done
+
+echo "All done"

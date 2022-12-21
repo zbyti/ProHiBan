@@ -1,0 +1,169 @@
+<select class="collection" id="SelectCollection" onchange="window.location.href='?'+this.options[this.selectedIndex].value;">
+<optgroup label='Thinking Rabbit'>
+<option value='1' selected="selected">Original &amp; Extra|90</option>
+<option value='2'>Boxxle 1|108</option>
+<option value='3'>Boxxle 2|120</option>
+</optgroup>
+<optgroup label='Aymeric du Peloux'>
+<option value='4'>Mini Cosmos|40</option>
+<option value='5'>Micro Cosmos|40</option>
+<option value='6'>Pico Cosmos|20</option>
+<option value='7'>Nabo Cosmos|40</option>
+</optgroup>
+<optgroup label='David Holland'>
+<option value='8'>The DH1 collection|10</option>
+<option value='9'>The DH2 collection|10</option>
+<option value='10'>The Bagatelle collection|20</option>
+<option value='11'>The Bagatelle 2 collection|12</option>
+<option value='12'>The Cantrip collection|20</option>
+<option value='13'>The Cantrip 2 collection|13</option>
+<option value='14'>The Maelstrom collection|21</option>
+</optgroup>
+<optgroup label='David W Skinner'>
+<option value='15'>Sasquatch|50</option>
+<option value='16'>Sasquatch II|50</option>
+<option value='17'>Sasquatch III|50</option>
+<option value='18'>Sasquatch IV|50</option>
+<option value='19'>Sasquatch V|50</option>
+<option value='20'>Sasquatch VI|50</option>
+<option value='21'>Sasquatch VII|50</option>
+<option value='22'>Sasquatch VIII|50</option>
+<option value='23'>Sasquatch IX|50</option>
+<option value='24'>Sasquatch X|33</option>
+<option value='25'>Microban|155</option>
+<option value='26'>Microban II|135</option>
+<option value='27'>Microban III|101</option>
+<option value='28'>Microban IV|25</option>
+</optgroup>
+<optgroup label='Yoshio Murase'>
+<option value='29'>Yoshio Murase's Hand-Made|54</option>
+<option value='30'>Yoshio Murase's Auto|52</option>
+</optgroup>
+<optgroup label='Alberto Garcia'>
+<option value='31'>Alberto Garcia|50</option>
+<option value='32'>Alberto Garcia 2|50</option>
+<option value='33'>Alberto Garcia 3|50</option>
+<option value='34'>Alberto Garcia 4|50</option>
+</optgroup>
+<optgroup label='Eric F Tchong'>
+<option value='35'>Aruba1|10</option>
+<option value='36'>Aruba2|12</option>
+<option value='37'>Aruba3|46</option>
+<option value='38'>Aruba4|40</option>
+<option value='39'>Aruba5|47</option>
+<option value='40'>Aruba6|40</option>
+<option value='41'>Aruba7|40</option>
+<option value='42'>Aruba8|40</option>
+<option value='43'>Aruba9|40</option>
+<option value='44'>Aruba10|100</option>
+<option value='45'>Atlas01|100</option>
+<option value='46'>Cosmac|36</option>
+<option value='47'>Cosmac 2|100</option>
+<option value='48'>Cosmac 3|50</option>
+<option value='49'>Cosmac 4|100</option>
+<option value='50'>Cosmac 5|75</option>
+<option value='51'>Cosmac 6|55</option>
+<option value='52'>Cosmac 7|40</option>
+<option value='53'>Cosmac 8|61</option>
+<option value='54'>Cosmac 9|50</option>
+<option value='55'>Cosmac 10|50</option>
+<option value='56'>Serena1|100</option>
+<option value='57'>Serena2|40</option>
+<option value='58'>Serena3|26</option>
+<option value='59'>Serena4|40</option>
+<option value='60'>Serena5|40</option>
+<option value='61'>Serena6|40</option>
+<option value='62'>Serena7|40</option>
+<option value='63'>Serena8|100</option>
+<option value='64'>Serena9|100</option>
+</optgroup>
+<optgroup label='Evgeniy Grigoriev'>
+<option value='65'>Grigr 2001|100</option>
+<option value='66'>Grigr 2002|40</option>
+<option value='67'>Grigr Challenge|5</option>
+<option value='68'>Grigr Comet|14</option>
+<option value='69'>Grigr Special|40</option>
+<option value='70'>Grigr Star|5</option>
+</optgroup>
+<optgroup label='Francois Marques'>
+<option value='71'>Soloban|8</option>
+<option value='72'>100 Boxes|10</option>
+<option value='73'>Numbers|10</option>
+<option value='74'>Kokoban|41</option>
+<option value='75'>Sokoban Online|15</option>
+<option value='76'>Sokolate|44</option>
+<option value='77'>Novoban|50</option>
+<option value='78'>Sokompact|51</option>
+</optgroup>
+<optgroup label='Howard Abed'>
+<option value='79'>Howard Levels 1|100</option>
+<option value='80'>Howard's Second Set|40</option>
+<option value='81'>Howard's Third Set|40</option>
+<option value='82'>Howard's Fourth Set|32</option>
+</optgroup>
+<optgroup label='Jaques Duthen'>
+<option value='83'>Dimitri &amp; Yorick|61</option>
+<option value='84'>Sokogen-990602 Levels|78</option>
+</optgroup>
+<optgroup label='Jordi Domenech'>
+<option value='85'>Haikemono collection|20</option>
+<option value='86'>Haikemono collection 2|15</option>
+</optgroup>
+<optgroup label='Lee Haywood'>
+<option value='87'>The SokHard collection|72</option>
+<option value='88'>The SokEvo collection|107</option>
+</optgroup>
+<optgroup label='Marko Dzekic'>
+<option value='89'>Complex Simplicity|13</option>
+<option value='90'>Galadriel|30</option>
+<option value='91'>Marko Dzekic|46</option>
+</optgroup>
+<optgroup label='Sven Egevad'>
+<option value='92'>Sharpen Collection|150</option>
+<option value='93'>Svens Collection|1410</option>
+</optgroup>
+<optgroup label='Thomas Reinke'>
+<option value='94'>81|25</option>
+<option value='95'>Albizia|25</option>
+<option value='96'>Anomaly|30</option>
+<option value='97'>Calx|25</option>
+<option value='98'>Patera|10</option>
+<option value='99'>Sokomania|124</option>
+<option value='100'>TBox|50</option>
+<option value='101'>TBox 2|50</option>
+<option value='102'>TBox 3|25</option>
+<option value='103'>TBox 4|25</option>
+<option value='104'>TBox 5|50</option>
+<option value='105'>YASGood|50</option>
+</optgroup>
+<optgroup label='Misc. authors'>
+<option value='106'>Initial Trouble|12</option>
+<option value='107'>Brian Kent's Sokoban2K|50</option>
+<option value='108'>Demons &amp; Diamonds|20</option>
+<option value='109'>Erim Sever Collection|188</option>
+<option value='110'>F. Pokorny collection|22</option>
+<option value='111'>Gabi &amp; Jenny|5</option>
+<option value='112'>Monde|190</option>
+<option value='113'>Brainsport|32</option>
+<option value='114'>The Adventurer|17</option>
+<option value='115'>Still More collection|35</option>
+<option value='116'>JCD levels|17</option>
+<option value='117'>Title Screens|4</option>
+<option value='118'>Kalle1|12</option>
+<option value='119'>KEAS Collection|26</option>
+<option value='120'>Takaken collection|7</option>
+<option value='121'>Kobus Theron collection|107</option>
+<option value='122'>Spirals|7</option>
+<option value='123'>Mario Bonenfant collection|30</option>
+<option value='124'>Twisty|3</option>
+<option value='125'>The First One|7</option>
+<option value='126'>Simple collection|61</option>
+<option value='127'>Richard Weston Collection|10</option>
+<option value='128'>Barona|14</option>
+<option value='129'>Sylvie|7</option>
+<option value='130'>Fly|3</option>
+<option value='131'>Master Head|45</option>
+<option value='132'>Loma|60</option>
+</optgroup>
+
+</select>

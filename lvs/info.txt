@@ -1,0 +1,34 @@
+//==============================================================================
+// https://sokoban.info
+//==============================================================================
+
+13251   abed.bin        194 levels was packed   6113    abed.apl
+18566   aruba.bin       294 levels was packed   8597    aruba.apl
+3987    atlas.bin        61 levels was packed   2117    atlas.apl
+12774   boxxle.bin      188 levels was packed   7358    boxxle.apl
+15399   cosmac1.bin     235 levels was packed   7968    cosmac1.apl
+12178   cosmac2.bin     172 levels was packed   6538    cosmac2.apl
+5887    cosmos.bin      140 levels was packed   3054    cosmos.apl
+3447    duthen.bin      139 levels was packed   1937    duthen.apl
+9439    dzekic.bin      128 levels was packed   4404    dzekic.apl
+9256    garcia.bin      166 levels was packed   5564    garcia.apl
+10624   grigr.bin       194 levels was packed   5990    grigr.apl
+6882    haywood.bin     179 levels was packed   3826    haywood.apl
+5579    holland.bin      85 levels was packed   3336    holland.apl
+9244    marques.bin     225 levels was packed   5036    marques.apl
+18039   micro.bin       396 levels was packed   10103   micro.apl
+11077   reinke1.bin     208 levels was packed   6298    reinke1.apl
+9873    reinke2.bin     198 levels was packed   5514    reinke2.apl
+16901   sasq.bin        235 levels was packed   9032    sasq.apl
+9769    serena1.bin     141 levels was packed   5435    serena1.apl
+11627   serena2.bin     175 levels was packed   6384    serena2.apl
+7093    sharpen.bin      81 levels was packed   3058    sharpen.apl
+9392    various1.bin    201 levels was packed   5213    various1.apl
+15469   various2.bin    219 levels was packed   8258    various2.apl
+11442   various3.bin    177 levels was packed   6033    various3.apl
+
+====
+
+4431 levels in 24 sets
+
+====

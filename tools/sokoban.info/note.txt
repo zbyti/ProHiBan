@@ -1,0 +1,4 @@
+https://developer.chrome.com/blog/headless-chrome/
+
+google-chrome --headless --disable-gpu --disable-cache --no-sandbox --dump-dom https://sokoban.info/?$sN
+google-chrome --headless --disable-gpu --disable-cache --no-sandbox --dump-dom view-source:https://sokoban.info/?$lv 

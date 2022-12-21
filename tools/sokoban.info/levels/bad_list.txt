@@ -1,0 +1,51 @@
+levels/22.txt
+'S31xv2'xxxxxxxxxxxxx!xxx#####xxxxxxxxxxxxx!xxx#   #####xxxxxxxxx!xxx#.$$#   ######xxxx!x###     $ #    #xxxx!x#  .## ####### #xxxx!x# . . . #    # #xxxx!## ###$$$#$$$ ######x!x# ..  . .. . #    #x!x#  ####### ### ##@#x!x## # $.$.$ # $ $  #x!xx# #     . #     ###!xx# # ## #.######  #x!xx# .  # $      $  #x!xx#    ###.## ###$##x!xx######x#        #xx!xxxxxxxxx##########xx!
+'MS9xv2'xxxxxxxxxxxxxxxxxxxxx!xxxxxxxxxxxxxx##############x!#####xxxxxxxxx#    #   ##  #x!#   ########### ## #    ...#x!#..............  # ## ###  #x!#.# ###@#### ##  #    #   ###!#.#   ###  #     ######     #!#.# #   $  ##          #    #!#.#  $ $ $ ####        #    #!#.#  $ # $ $  ####  ## ##   #!#  ## ##  $   $  #          #!#   $$ ##### $   ##      #  #!## $     $ #### $########   #!x#  $ $ $   $ ##  #xxxxx#  ##!x########  $   $  #x###x#  #x!xxxxxxxx####  $   #x#*#x####x!xxxxxxxxxxx####  ##x###xxxxxx!xxxxxxxxxxxxxx####xxxxxxxxxxx!
+
+levels/23.txt
+'S15xv2'xxx!xxx####xxxx!xxx#@ #xxxx!xx##  ##xxx!xx# .$###xx!xx#$. ####x!### .$#  #x!#  ..*.$ #x!# $ $ #  #x!##### # ###!xxxx# #  #x!xxxx#    #x!xxxx###  #x!xxxxxx####x!
+'derivedxfromxSokHardxbonus'!#####xxxxxxxxxxxxxxxxxxxxxxx!#   #x######xxxxxxxxxxxxxxxx!#  $###..$.#xxxxxxxxxxxxxxxx!## @ ##..  #xxxxxxxxxxxxxxxx!x#  $# ..#.#xxxxxxxxxxxxxxxx!x## $ $$$$ #xxxxxxxxxxxxxxxx!xx#       ##xxxxxxxxxxxxxxxx!xx#########xxxxxxxxxxxxxxxxx!
+
+levels/27.txt
+'LOMAx1a'!xx#####xx!x##   ##x!### #  #x!###$.# #x!#  $.#@#x!# #$.# #x!# #    #x!#  # ###x!##   ##xx!x#####xxx!
+'LOMAx1b'!########x!#      #x!# #$.@ #x!#  $.###x!# #$.#xxx!#   ##xxx!#####xxxx!
+'LOMAx1c'!x#####xxx!x#   ####!x#  $.  #!x## $.  #!xx##$.###!xxx#@ #xx!xxx####xx!
+'LOMAx1d'!xx####xxx!xx#  #xxx!xx#  #xxx!###$.#xxx!#  $.##xx!# #$. #xx!#   @ #xx!#######xx!
+'LOMAx1e'x!#####x####!#   ###  #!#    ##@ #!##    #$.#!x##    $.#!# ##  #$.#!## ## #  #!###x######!
+'LOMAx2a'!#####xxxx!#   ####x!# #$.  #x!#  .$#@#x!###$.  #x!xx#  ###x!xx#  #xxx!xx####xxx!
+'LOMAx2b'!xx######x!###    #x!#   ## #x!# #$.  #x!#@#.$###x!# #$.##xx!#     #xx!###   #xx!xx#####xx!
+'LOMAx2c'!xx######x!###    #x!#  $.# #x!#@#.$  #x!# #$.###x!#    #xxx!######xxx!
+'LOMAx2d'!xxx#####x!####   #x!#  $.# #x!#@#.$  #x!# #$.###x!# #  #xxx!#    #xxx!######xxx!
+'LOMAx3a'!xx####xxx!x##  #xxx!x# . #xxx!x# * #xxx!## *###xx!#  $ #xxx!#  @ #xxx!#  ###xxx!####xxxxx!
+'LOMAx3b'!####xxxxx!#  ####xx!#     #xx!#  .# #xx!###*# ##x!x#@*   #x!x# $   #x!x###  ##x!xxx####xx!
+'LOMAx3c'!x#####xxx!x# . #xxx!x# * #xxx!## * #xxx!#  * #xxx!# @$ #xxx!#  ###xxx!####xxxxx!
+'LOMAx3d'!x######xx!x# .  #xx!x# *# #xx!x#@*  #xx!x# * ##xx!x##$  #xx!x#    #xx!x# # ##xx!x#   #xxx!x#####xxx!
+'LOMAx4a'!######x#x!#   ##x#x!#  . #xxx!#  $ ###x!## * @ #x!###$ # #x!xx#.#  #x!#x#   ##x!#x######x!
+'LOMAx4b'!#####xxxx!#   ##xxx!# #. ###x!#  $ @ #x!###*   #x!#  $ ###x!# #.##xxx!#   #xxxx!#####xxxx!
+'LOMAx4c'!#####xxxx!#   #xxxx!# . #xxxx!# $ #xxxx!##* ##xxx!# $  #xxx!# . @#xxx!###  #xxx!xx####xxx!
+'LOMAx4d'!x######xx!x###  #xx!x# . @#xx!x# $  #xx!###* ##xx!#  $ ##xx!# #. #xxx!#   ##xxx!##  ##xxx!######xxx!
+'LOMAx5a'!x####xxxx!x#  #xxxx!x#  #xxxx!x#  ####x!###$$  #x!#  $.  #x!# #..###x!# @# #xxx!##   #xxx!######xxx!
+'LOMAx5b'!#####xxxx!#  @####x!# #$$  #x!#  $.# #x!###..  #x!xx##   #x!xxx#####x!
+'LOMAx5c'!xxx####xx!#### @#xx!#  $$ ##x!# #$.  #x!#  ..# #x!####   #x!xxx#####x!
+'LOMAx5d'!x#####xxx!x#   #xxx!x# # #xxx!x# @ #xxx!##$$###xx!# $.  #xx!# ..# #xx!###   #xx!xx#####xx!
+'LOMAx6a'!xx#####xx!xx##  #xx!###   #xx!#  $  #xx!# .*.##xx!## $ #xxx!###@ #xxx!xx####xxx!
+'LOMAx6b'!xx####xxx!x##  #xxx!###$ #xxx!# .*.#xxx!# #$ #xxx!#  @ #xxx!#   ##xxx!#####xxxx!
+'LOMAx6c'!xxx#####x!xxx#   ##!x### #  #!##  $ # #!#  .*.  #!# # $  ##!#  #@###x!##   #xxx!x#####xxx!
+'LOMAx6d'!### #####!#####   #!### $ # #!# @.*.  #!# # $ ###!#   #####!#####x###!
+'LOMAx7a'!#####xxxx!#   ##xxx!#  $ ##xx!##$*. ##x!x# .@  #x!x#  #  #x!#####  #x!##xx####x!
+'LOMAx7b'!#####xxxx!#   ####x!# #@$  #x!#  $*. #x!####. ##x!x#    #xx!x#   ##xx!x#####xxx!
+'LOMAx7c'x!xx########!xx#      #!### #### #!#  @$  # #!#  $*. # #!#  #.### #!#  #     #!##########!
+'LOMAx7d'x!xx####xxxx!xx#  #####!xx#      #!### ###  #!# @$  #  #!# $*. # ##!###.### #x!x#      #x!x#   #  #x!x########x!
+'LOMAx8a'!xx#####xx!x##   #xx!###   #xx!#  * ##xx!# .@$##xx!#  * ##xx!##  ##xxx!#####xxxx!
+'LOMAx8b'!x####xxxx!x#  ##xxx!## * ##xx!# .@$ #xx!#  *  #xx!#  #  #xx!#######xx!
+'LOMAx8c'!xx#####xx!x##   #xx!## *  #xx!# .@$##xx!#  *  #xx!###   #xx!#######xx!
+'LOMAx8d'!x#####xxx!x#   ##xx!## #  ##x!# * #  #x!#.@$ # #x!# *  # #x!###    #x!xx#  ###x!xx####xxx!
+'LOMAx9a'!xx####xxx!xx#  #xxx!###  ###x!## $*  #x!#  *. @#x!#   ####x!#  ##xxxx!#####xxxx!
+'LOMAx9b'!#####xxxx!#   #####!#   #   #!## $*@  #!x# *.  ##!x#  ####x!x####xxxx!
+'LOMAx9c'!xx####xxx!xx#@ #xxx!xx#  ##xx!###$* ##x!#  *.  #x!#      #x!#####  #x!xxxx####x!
+'LOMAx9d'!xxxxx####!######  #!#  ##   #!#   $*  #!#  #*. ##!##  @ ##x!x#  ###xx!x####xxxx!
+'LOMAx10a'!#### ###xx!#@ ### #xx!# $$ ###xx!# $ .  #xx!## ..  #xx!x#######xx!
+'LOMAx10b'!####xxxxxx!#  #xxxxxx!#@ ###xxxx!# $$ ##xxx!# $ . #xxx!###.. #xxx!x#   ##xxx!x#   #xxxx!x#####xxxx!
+'LOMAx10c'!######xxxx!#    #xxxx!#    #xxxx!## $$##xxx!x# $@.#xxx!x## ..#xxx!xx#####xxx!
+'LOMAx10d'!xx#####xxx!###   #xxx!# $$# #xxx!# $@. #xxx!#  .. #xxx!#######xxx!
+
