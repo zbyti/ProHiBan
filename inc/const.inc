@@ -99,7 +99,7 @@ SIZE_SCREEN      = (MAX_Y + 1) * SIZE_ROW;
 
 HIGH_LEVELS      = 399;                                     // zero indexed
 HIGH_SETS        = 23;                                      // zero indexed
-HIGH_UNDO        = 9;                                       // zero indexed, max 31
+HIGH_UNDO        = 9;                                       // zero indexed, max 16 moves
 
 //==============================================================================
 // $0400..$04ff MP buffer

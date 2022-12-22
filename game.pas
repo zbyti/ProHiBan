@@ -157,7 +157,6 @@ begin
 
   msx.init(0);
   msx_on := true;
-  msx_toggle := true;
 end;
 
 //------------------------------------------------------------------------------
@@ -167,6 +166,7 @@ begin
   music_off;
   if ms < HIGH_MODULES then inc(ms) else ms := 0;
   music_on(true);
+  msx_toggle := true;
 end;
 
 //------------------------------------------------------------------------------
@@ -176,6 +176,7 @@ begin
   music_off;
   if ms > 0 then dec(ms) else ms := HIGH_MODULES;
   music_on(true);
+  msx_toggle := true;
 end;
 
 //==============================================================================
@@ -866,13 +867,13 @@ var
 begin
   music_off;
 
-  inc(secret_keys, ord(key));
-  if secret_keys = SECRET then move(pointer(ADR_NEW_TILES), pointer(ADR_OLD_TILES), (6*8));
-
   se := ord(key) - KEY_OFFSET;
   progr_se_index := ONE_SET_PROGR * se;
 
   glass_on;
+
+  inc(secret_keys, ord(key));
+  if secret_keys = SECRET then move(pointer(ADR_NEW_TILES), pointer(ADR_OLD_TILES), (6*8));
 
   unapl(SETS_NAME[se], pointer(ADR_SET));
 
